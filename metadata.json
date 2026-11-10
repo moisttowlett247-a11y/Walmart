@@ -1,0 +1,6 @@
+{
+  "name": "CartCraft: Walmart Recipe & Grocery Shopper",
+  "description": "Smart recipe input and ingredient organizer that pairs every ingredient with Walmart items, allows custom ingredient additions, and adds them directly to your Walmart order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
